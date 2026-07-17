@@ -209,7 +209,7 @@ It reflects the complete workflow expected of a Data Analyst and showcases the a
 ---
 **Thrisha D S**
 🎓 MSc in Big Data Analytics
+
 📧 Email: thrishadsullal@gmail.com
 💼 LinkedIn:www.linkedin.com/in/ThrishaDS 
-
 🐙 GitHub: https://github.com/ThrishaDSullal
