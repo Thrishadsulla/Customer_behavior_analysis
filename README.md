@@ -212,4 +212,4 @@ It reflects the complete workflow expected of a Data Analyst and showcases the a
 📧 Email: thrishadsullal@gmail.com
 💼 LinkedIn:www.linkedin.com/in/ThrishaDS 
 
-🐙 GitHub: https://github.com/your-username
+🐙 GitHub: https://github.com/ThrishaDSullal
